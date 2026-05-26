@@ -1,2 +1,2 @@
 # Fama-French-Size-Value
-Fit of size and value factor returns
+Consider size and value returns. We have autoregression fit with and without volatility. For the value, we are successful, but for the size, we failed. 
